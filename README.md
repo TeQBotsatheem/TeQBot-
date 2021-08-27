@@ -1,4 +1,5 @@
-![Screenshot_20210827_123317_com termux](https://user-images.githubusercontent.com/89625235/131086358-392160d4-f957-4b5a-8ee4-4aa9029dacb3.jpg)
+![Screenshot_20210827_123440](https://user-images.githubusercontent.com/89625235/131086503-7a452057-123a-4757-9e30-5d1275ad1bf1.jpg)
+
 
 # installation
 
